@@ -31,7 +31,7 @@
   <p>All primary app data (car details, parking slot assignments, selected services) is stored locally on the user’s device using iOS local storage (UserDefaults / local persistence). We do not transmit or store personal data on our servers unless you explicitly enable a cloud or backup feature (if available).</p>
 
   <h2>Third-Party Services</h2>
-  <p>We may use third-party services for analytics, crash reporting, or other functionality. These services may collect usage and device information. We only integrate reputable providers and limit data sent to those services. If you want details about any specific provider, contact us at <a href="mailto:Alirazashaukat92@gamil.com">you@example.com</a>.</p>
+  <p>We may use third-party services for analytics, crash reporting, or other functionality. These services may collect usage and device information. We only integrate reputable providers and limit data sent to those services. If you want details about any specific provider, contact us at <a href="mailto:Alirazashaukat92@gamil.com">Alirazashaukat92@gamil.com"</a>.</p>
 
   <h2>Sharing & Disclosure</h2>
   <p>We do not sell or rent your personal information. We may disclose information where required by law or to protect our rights.</p>
@@ -49,7 +49,7 @@
   <p>The App is not intended for children under 13. We do not knowingly collect information from children under 13.</p>
 
   <h2>Contact</h2>
-  <p>If you have questions about this Privacy Policy, contact us at: <a href="mailto:Alirazashaukat92@gmail.com">you@example.com</a>.</p>
+  <p>If you have questions about this Privacy Policy, contact us at: <a href="mailto:Alirazashaukat92@gmail.com">Alirazashaukat92@gamil.com"</a>.</p>
 
   <footer>
     <p>SmartParkBook — <strong>Ali Raza Shaukat</strong></p>
