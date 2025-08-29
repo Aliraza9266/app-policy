@@ -10,7 +10,7 @@
   <h1>Privacy Policy for SmartParkBook</h1>
   <p>Last updated: <strong>August 29, 2025</strong></p>
 
-  <p>SmartParkBook (the “App”) is owned and provided by <strong>YOUR_NAME_OR_COMPANY</strong> ("we", "us", or "our"). This Privacy Policy explains what information the App collects, how it is used, and your choices regarding that information.</p>
+  <p>SmartParkBook (the “App”) is owned and provided by <strong>Ali Raza Shaukat</strong> . This Privacy Policy explains what information the App collects, how it is used, and your choices regarding that information.</p>
 
   <h2>Information We Collect</h2>
   <ul>
@@ -30,8 +30,7 @@
   <h2>Where Data Is Stored</h2>
   <p>All primary app data (car details, parking slot assignments, selected services) is stored locally on the user’s device using iOS local storage (UserDefaults / local persistence). We do not transmit or store personal data on our servers unless you explicitly enable a cloud or backup feature (if available).</p>
 
-  <h2>Third-Party Services</h2>
-  <p>We may use third-party services for analytics, crash reporting, or other functionality. These services may collect usage and device information. We only integrate reputable providers and limit data sent to those services. If you want details about any specific provider, contact us at <a href="mailto:Alirazashaukat92@gamil.com">Alirazashaukat92@gamil.com"</a>.</p>
+  
 
   <h2>Sharing & Disclosure</h2>
   <p>We do not sell or rent your personal information. We may disclose information where required by law or to protect our rights.</p>
